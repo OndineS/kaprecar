@@ -6,3 +6,5 @@ Un nombre de Kaprekar est un nombre dont la representation decimale du carré pe
    4879 est un nombre de Kaprekar en base 10 car 4879² = 23 804 641 et 04641 + 238 = 4879
 
 Ecrire un programme qui renvoit tous les nombres de Kaprekar entre 1 et N.
+
+"instructions"
